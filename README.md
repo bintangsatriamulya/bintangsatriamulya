@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="250" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"  />
+  <img height="200" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"  />
 </div>
 
 ###
