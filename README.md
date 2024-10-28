@@ -47,7 +47,7 @@
 
 ###
 
-<h4 align="left">- 🔭 I’m student at SMK Telkom Malang<br>- 📚 I'm currently learning Kotlin, Flutter and Dart, Editing<br>- 😄 Pronouns: He/Him<br>- ✉️ bintangsatriamulya88@gmail.com</h4>
+<h4 align="left">- 🔭 I’m student at SMK Telkom Malang<br>- 📚 I'm currently learning Kotlin, Dart. <br>- 😄 Pronouns: He/Him<br>- ✉️ bintangsatriamulya88@gmail.com</h4>
 
 ###
 
